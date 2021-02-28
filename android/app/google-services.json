@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "381872344592",
+    "project_id": "hackathonecrsystem",
+    "storage_bucket": "hackathonecrsystem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381872344592:android:762082e519492585edc495",
+        "android_client_info": {
+          "package_name": "com.cr_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381872344592-i65m640t44eecnal4gc61e5gqtfm9mms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3VgVe_3pF046913qnzTFbnRjucR_TEv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381872344592-i65m640t44eecnal4gc61e5gqtfm9mms.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
